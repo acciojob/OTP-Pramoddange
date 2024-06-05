@@ -21,7 +21,7 @@ body {
     color: #555;
     margin-bottom: 20px;
 }
-#input {
+#code-containe {
     display: flex;
     justify-content: center;
     gap: 10px;
